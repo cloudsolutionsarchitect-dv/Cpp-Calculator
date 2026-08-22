@@ -1,8 +1,5 @@
-# Cpp-Toolkit
+#Calculator
 
-Collection of C++ console applications and utilities.
-
-## Calculator
 A simple command-line calculator built in C++.
 
 **Features:**
