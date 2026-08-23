@@ -1,4 +1,4 @@
-#C++ Calculator
+# C++ Calculator
 
 A simple C++ CLI calculator for fast mathematical operations handles addition, subtraction, multiplication and division with full validation
 
