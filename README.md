@@ -1,6 +1,6 @@
-Calculator
+#C++ Calculator
 
-A simple command-line calculator built in C++.
+A simple C++ CLI calculator for fast mathematical operations handles addition, subtraction, multiplication and division with full validation
 
 **Features:**
 - Addition `+`
